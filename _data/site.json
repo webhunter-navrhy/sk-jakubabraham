@@ -1,0 +1,36 @@
+{
+  "slug": "sk-jakubabraham",
+  "nazev": "Jakub Abrahám · ABRAHAM Etiquette",
+  "url": "https://webhunter-navrhy.github.io/sk-jakubabraham/",
+  "base": "/sk-jakubabraham/",
+  "lang": "sk",
+  "popis": "Jakub Abrahám: kouč spoločenskej etikety, pánskej módy a kráľovský komentátor. Kurzy etikety Ideme na večeru a Čaj o piatej, školenia pre firmy a školy.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "vecera.jpg",
+  "logo": "brand/logo.png",
+  "theme_color": "#0b1a33",
+  "typ": "LocalBusiness",
+  "ico": "50724223",
+  "kontakt": {
+    "email": "etiketa@jakubabraham.sk",
+    "telefon": "",
+    "adresa": {"ulice": "Ivana Bukovčana 16", "psc": "84108", "mesto": "Bratislava", "zeme": "SK"}
+  },
+  "oteviraci_doba": [],
+  "sameas": [
+    "https://www.facebook.com/Abrahametiketa",
+    "https://www.instagram.com/jakub_abraham/",
+    "https://www.instagram.com/slovenskyroyalista/",
+    "https://sk.linkedin.com/in/jakub-abrah%C3%A1m-a52b141b4"
+  ],
+  "cenove_rozpeti": "",
+  "formular": {"endpoint": "", "demo": true, "predmet": "Správa z webu jakubabraham.sk"},
+  "nav": [
+    {"text": "O mne", "href": "#o-mne"},
+    {"text": "Kurzy", "href": "#kurzy"},
+    {"text": "Firmy a školy", "href": "#firmy"},
+    {"text": "V médiách", "href": "#media"},
+    {"text": "Kontakt", "href": "#kontakt"}
+  ]
+}

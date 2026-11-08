@@ -1,0 +1,146 @@
+{% extends "_base.html" %}
+{% set titulek = 'Jakub Abrahám – etiketa, imidž a kráľovský komentátor | Bratislava' %}
+{% set cesta = '' %}
+{% block obsah %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-foto">
+      {{ img('portret.jpg', 'Jakub Abrahám v tmavom obleku s kravatou a vreckovkou', sizes='(min-width: 60rem) 40rem, 100vw') }}
+    </div>
+    <div class="hero-text">
+      <p class="nadpis-maly">Etiketa · imidž · royal</p>
+      <h1>Jakub Abrahám</h1>
+      <p class="hero-podnadpis">Kouč spoločenskej etikety, pánskej módy a kráľovský komentátor.</p>
+      <blockquote class="hero-citat">Nie je dôležité obliecť sa draho, dôležité je obliecť sa vhodne…</blockquote>
+      <div class="hero-cta">
+        <a class="tlacitko" href="#vecera">Ideme na večeru, 28. 11.</a>
+        <a class="tlacitko druhe" href="#kontakt">Napísať správu</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="terminy" aria-labelledby="h-terminy">
+  <div class="wrap">
+    <h2 id="h-terminy" class="nadpis-maly">Najbližšie termíny</h2>
+    <ol class="terminy-zoznam" role="list">
+      <li><time datetime="2026-11-21"><b>21</b> nov</time><div><strong>Švihák lázeňský</strong><span>DK Turčianske Teplice · 18:00 · predstavenie</span></div></li>
+      <li><time datetime="2026-11-22"><b>22</b> nov</time><div><strong>Švihák lázeňský</strong><span>Mestské divadlo Banská Bystrica · predstavenie</span></div></li>
+      <li class="hl"><time datetime="2026-11-28"><b>28</b> nov</time><div><strong>Ideme na večeru</strong><span>DoubleTree by Hilton Bratislava · 19:00 · kurz stolovania</span></div></li>
+    </ol>
+  </div>
+</section>
+
+<section class="sekce svetla" id="o-mne">
+  <div class="wrap o-grid">
+    <div>
+      <p class="nadpis-maly">O mne</p>
+      <h2>Od divadelných dosiek ku kráľovským dvorom</h2>
+      <p>Jakub Abrahám pôvodne študoval na Tanečnom konzervatóriu Evy Jaczovej v Bratislave, neskôr herectvo na Cirkevnom konzervatóriu. Účinkoval v inscenáciách Slovenského národného divadla a venuje sa dabingu, rozhlasu a divadlu. V roku 2011 založil Činoherný klub Bratislava, v ktorom šesť rokov uvádzal talkshow BEZ OPONY.</p>
+      <p>Etiketu, dress code a protokol študoval v Medzinárodnom klube SR pod vedením diplomata Rudolfa Hromádku, vzdelávací program Master of Business Etiquette absolvoval v Prahe. Venuje sa európskym kráľovským rodom, hlavne britskej, a ako uvádza, je jediným zo Slovenska a Česka s akreditáciou od The Royal family na kráľovské podujatia Spojeného kráľovstva.</p>
+      <p>Jeho služby vyhľadávajú manažéri firiem, školy, korporátne spoločnosti aj médiá.</p>
+    </div>
+    <ul class="cesta" role="list">
+      <li><b>2011</b><span>Založil Činoherný klub Bratislava</span></li>
+      <li><b>2022 – 2025</b><span>Prednášal protokol a etiketu na University College Prague</span></li>
+      <li><b>2026</b><span>Lektor etikety a porotca Miss Universe Slovensko a Česko</span></li>
+      <li><b>Dnes</b><span>Rubrika „Buďte džentlmenom s Jakubom“ v magazíne Break a ambasádor etikety značky sektu Hubert</span></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sekce tmava" id="kurzy">
+  <div class="wrap">
+    <p class="nadpis-maly">Kurzy</p>
+    <h2>Zážitkové masterclassy etikety</h2>
+    <p class="uvod">Naučíte sa základné aj pokročilé zručnosti moderného stolovania, dress codu a vystupovania, s dôrazom na prax.</p>
+
+    <article class="pozvanka" id="vecera">
+      <div class="pozvanka-ram">
+        <div class="pozvanka-datum" aria-hidden="true"><b>28</b><span>november 2026</span></div>
+        <div class="pozvanka-text">
+          <p class="nadpis-maly">Pozvánka</p>
+          <h3>Ideme na večeru</h3>
+          <p>4-chodová degustačná večera spojená s kurzom etikety stolovania. Jakub Abrahám vás krok za krokom prevedie od vstupu do reštaurácie až po platenie účtu a odchod.</p>
+          <ul class="fakty" role="list">
+            <li><span>Kedy</span>28. 11. 2026, 19:00 – 21:00</li>
+            <li><span>Kde</span>Hotel DoubleTree by Hilton Bratislava</li>
+            <li><span>Dress code</span>Cocktail dress</li>
+            <li><span>Cena</span>109 € dospelý · 79 € dieťa (12 – 17 rokov)</li>
+          </ul>
+          <ul class="odrazky" role="list">
+            <li>4-chodová večera, možnosť vegetariánskej verzie</li>
+            <li>párovanie prémiovým slovenským sektom Hubert, vínne alebo nealko</li>
+            <li>najčastejšie faux pas pri stole a ako sa im vyhnúť</li>
+            <li>certifikát o absolvovaní, možnosť darčekového poukazu</li>
+          </ul>
+          <a class="tlacitko zlate" href="#kontakt">Prihlásiť sa</a>
+        </div>
+        <div class="pozvanka-foto">{{ img('vecera.jpg', 'Plagát kurzu Ideme na večeru: Jakub Abrahám a hotelová reštaurácia', sizes='(min-width: 60rem) 34rem, 100vw') }}</div>
+      </div>
+    </article>
+
+    <article class="kurz-druhy" id="caj">
+      <div>
+        <p class="nadpis-maly">Britská kráľovská tradícia</p>
+        <h3>Čaj o piatej</h3>
+        <p>Kurz etikety spojený s anglickým čajovým rituálom, ktorý vedie Jakub Abrahám spolu s českou expertkou na etiketu Julie Balobanovou. Dozviete sa históriu afternoon tea, ako jesť z etažéru a podľa čoho si vybrať čaj.</p>
+      </div>
+      <ul class="fakty" role="list">
+        <li><span>Miesto</span>Hotel Maximilian Praha</li>
+        <li><span>Kapacita</span>najviac 14 hostí</li>
+        <li><span>Dĺžka</span>120 minút, cocktail attire</li>
+        <li><span>Cena</span>1 990 Kč</li>
+        <li><span>Termín</span>podľa aktuálnej ponuky, pýtajte sa mailom</li>
+      </ul>
+    </article>
+  </div>
+</section>
+
+<section class="sekce svetla" id="firmy">
+  <div class="wrap">
+    <p class="nadpis-maly">Firmy a školy</p>
+    <h2>Etiketa na mieru</h2>
+    <div class="dva">
+      <article>
+        <h3>Kurzy a teambuildingy pre firmy</h3>
+        <p>Firemné školenia a tematické teambuildingy podľa potrieb vašej spoločnosti. Účastníci sa naučia, ako sa efektívne prezentovať, komunikovať a vystupovať na verejnosti.</p>
+      </article>
+      <article>
+        <h3>Prednášky a kurzy pre školy</h3>
+        <p>Prednášky na stredných aj vysokých školách, od hotelových akadémií cez diplomaciu po humanitné štúdiá. Tvoria sa presne podľa požiadaviek školy a ako dialóg s poslucháčmi.</p>
+      </article>
+    </div>
+    <a class="tlacitko" href="#kontakt">Spýtať sa na prednášku</a>
+  </div>
+</section>
+
+<section class="sekce tmava" id="media">
+  <div class="wrap">
+    <p class="nadpis-maly">V médiách</p>
+    <h2>Kráľovský komentátor</h2>
+    <p class="uvod">Rozhovory a vystúpenia o britskej monarchii a etikete.</p>
+    <ul class="media" role="list">
+      {% for m in data.media %}<li><a href="{{ m.url }}" rel="noopener"><span class="media-thumb">{{ img(m.img, '', sizes='(min-width: 40rem) 12rem, 7rem') }}</span><span class="media-txt"><span class="media-kde">{{ m.kde }} · {{ m.typ }}</span><span class="media-nazov">{{ m.nazov }}</span><span class="media-play">Pozrieť na YouTube →</span></span></a></li>{% endfor %}
+    </ul>
+
+    <h3 class="break-h">Rubrika „Buďte džentlmenom s Jakubom“ v magazíne Break</h3>
+    <div class="break" tabindex="0" role="region" aria-label="Strany z magazínu Break">
+      {% for b in data.break %}<figure>{{ img(b.img, b.alt, sizes='(min-width: 60rem) 30rem, 80vw') }}<figcaption>{{ b.nazov }}</figcaption></figure>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sekce svetla" id="kontakt">
+  <div class="wrap kontakt-grid">
+    <div>
+      <p class="nadpis-maly">Kontakt</p>
+      <h2>Napíšte mi</h2>
+      <p>Prihláška na kurz, prednáška pre firmu alebo školu, otázka od médií: napíšte a ozveme sa e-mailom.</p>
+      <p class="kontakt-mail"><a href="mailto:{{ site.kontakt.email }}">{{ site.kontakt.email }}</a></p>
+      <p class="kontakt-mala">ABRAHAM etiquette · Kráľovská škola etikety<br>Asistentka: Michaela Adamová</p>
+    </div>
+    {% include "_formular.html" %}
+  </div>
+</section>
+{% endblock %}

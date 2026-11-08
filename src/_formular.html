@@ -1,0 +1,19 @@
+<form class="formular" method="post" {% if site.formular.endpoint and not site.formular.demo %}action="{{ site.formular.endpoint }}"{% endif %} data-endpoint="{{ site.formular.endpoint }}" data-demo="{{ 1 if site.formular.demo or not site.formular.endpoint else 0 }}">
+  <label>Meno <input name="jmeno" autocomplete="name" required></label>
+  <label>E-mail <input name="email" type="email" autocomplete="email" required></label>
+  <label>Čo vás zaujíma
+    <select name="tema">
+      <option>Ideme na večeru</option>
+      <option>Čaj o piatej</option>
+      <option>Prednáška, seminár alebo kurz pre spoločnosť</option>
+      <option>Prednáška pre školu</option>
+      <option>Médiá a komentár</option>
+      <option>Iné</option>
+    </select>
+  </label>
+  <label>Správa <textarea name="zprava" rows="5" required></textarea></label>
+  <div class="past" aria-hidden="true"><label>Nevyplňovať <input name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
+  <input type="hidden" name="_subject" value="{{ site.formular.predmet }}">
+  <button type="submit">Odoslať správu</button>
+  <p class="formular-stav" role="status" aria-live="polite"></p>
+</form>

@@ -1,0 +1,17 @@
+{
+  "znamka": 8,
+  "slabiny": [
+    "Rubrika Break (PC buňka 7, mobil buňka 9): třetí výtisk je uříznutý u pravého okraje a nic neukazuje, že se dá posouvat dál. Přidat zlaté šipky ‹ › vpravo nad karusel, nebo počítadlo „1 / 4“ a jemný přechod do modré u pravého okraje. Na mobilu vedle toho zvětšit popisky pod výtisky z asi 11 px na 14 px.",
+    "V médiách (PC buňka 6, mobil buňky 8–9): miniatury YouTube jsou malé (na PC asi 95 px, na mobilu asi 85 px) a vedle dlouhých nadpisů Bodoni se ztrácejí. Na PC je zvětšit na 200–240 px šířky s ikonou přehrání. Na mobilu dát miniaturu přes celou šířku nad nadpis, ať je vidět, že jde o televizní rozhovory.",
+    "Čaj o piatej (PC buňky 4–5, mobil buňka 6): na rozdíl od kurzu Ideme na večeru je sekce jen text a tabulka na modré a pod tabulkou zůstává na PC prázdný modrý pruh. Dát ji do stejného rámu pozvánky jako večeři (menší, s obří číslicí ‚5‘ místo data) a dolní odsazení zkrátit asi na polovinu."
+  ],
+  "zavazne": [],
+  "silne": [
+    "Všechny tři minulé výtky jsou opravené. Mobilní hlavička má jeden řádek (logo vlevo, vpravo tlačítko MENU) a je asi 50 px vysoká. Jméno je sázené jedním řezem Bodoni bez zlaté kurzívy. Portrét je na 390 px nad jménem. Rozhovory mají miniatury, nadtitulek s kanálem a odkaz „Pozrieť na YouTube →“. Prázdný pruh pod Breakem zmizel a časová osa v O mne je odsazená s tečkami na lince.",
+    "Koncept pozvánky drží celý web: kurz Ideme na večeru má slonovinovou kartu se dvojitým zlatým rámem a obří číslicí 28 a na něj navazují termíny s datem v Bodoni. Navy se zlatou má oporu v logu klienta, nejde o samoúčelný „luxus“.",
+    "Obsah je klientův: termíny, ceny kurzů, rozhovory z TA3 a Markízy, výtisky rubriky v Breaku a vlastní banner večeře. Vymyšlené recenze ani čísla jsem nenašel. QA je čisté na všech šesti šířkách.",
+    "Konverze je jasná: hlavní tlačítko na nejbližší kurz v úvodu, „Prihlásiť sa“ u karty večeře, „Spýtať sa na prednášku“ u firem a škol, a kontakt s e-mailem a formulářem s výběrem tématu."
+  ],
+  "verdikt": "Opravené kolo splnilo všechny výtky a nepřineslo novou závažnou vadu, takže web je hotový k odeslání. Zbývající slabiny jsou vylepšení (karusel Breaku, velikost miniatur, sjednocení Čaje o piatej s pozvánkou).",
+  "_hash": "bc1716ceee0bde9fa61fe6d180aa040d72819772"
+}

@@ -1,0 +1,309 @@
+{
+ "slug": "sk-jakubabraham",
+ "zdroj_url": "https://www.jakubabraham.sk",
+ "firma": "Jakub Abrahám",
+ "obor": [
+  "sport a výuka",
+  "právo a poradenství"
+ ],
+ "ico": "",
+ "ares": null,
+ "kontakty": {
+  "emaily": [
+   "etiketa@jakubabraham.sk"
+  ],
+  "telefony": [],
+  "adresa": "",
+  "socialni_site": [
+   "https://sk.linkedin.com/in/jakub-abrah%C3%A1m-a52b141b4",
+   "https://www.facebook.com/Abrahametiketa",
+   "https://www.instagram.com/jakub_abraham/",
+   "https://www.instagram.com/slovenskyroyalista/"
+  ]
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://4b46cfd0c9.clvaw-cdnwnd.com/db03e9fe641ad63781336699588904d5/200000323-25fb325fb5/Inicialy_logo_white.png?ph=4b46cfd0c9",
+  "rozmery": [
+   1182,
+   1182
+  ]
+ },
+ "barvy": {
+  "css_promenne": {},
+  "z_css": [
+   "#e9322d",
+   "#129fea",
+   "#eaa81a",
+   "#2db247",
+   "#0f3442",
+   "#06a48d"
+  ],
+  "z_loga": [
+   "#ccaf6f"
+  ],
+  "theme_color": null,
+  "doporucene": [
+   "#ccaf6f",
+   "#e9322d",
+   "#129fea"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.jpg",
+   "url": "https://4b46cfd0c9.clvaw-cdnwnd.com/db03e9fe641ad63781336699588904d5/200000947-a82dfa82e1/image-crop-200000881-5.jpeg?ph=4b46cfd0c9",
+   "sirka": 1258,
+   "vyska": 618,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-02.jpg",
+   "url": "https://4b46cfd0c9.clvaw-cdnwnd.com/db03e9fe641ad63781336699588904d5/200000981-a89afa89b0/Ideme%20Na%20Veceru_Web%20Banner_1600x900px-0.jpeg?ph=4b46cfd0c9",
+   "sirka": 1920,
+   "vyska": 1080,
+   "alt": "prihlášky"
+  },
+  {
+   "soubor": "podklady/foto/foto-03.jpg",
+   "url": "https://img.youtube.com/vi/zZIWgltXHq0/hqdefault.jpg",
+   "sirka": 480,
+   "vyska": 360,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-04.jpg",
+   "url": "https://img.youtube.com/vi/P-QYNjPPcFo/hqdefault.jpg",
+   "sirka": 480,
+   "vyska": 360,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-05.jpg",
+   "url": "https://img.youtube.com/vi/xPRBs0YYqGo/hqdefault.jpg",
+   "sirka": 480,
+   "vyska": 360,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-06.jpg",
+   "url": "https://img.youtube.com/vi/6S4RKK6A8UI/hqdefault.jpg",
+   "sirka": 480,
+   "vyska": 360,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-07.jpg",
+   "url": "https://4b46cfd0c9.clvaw-cdnwnd.com/db03e9fe641ad63781336699588904d5/200000967-1af9f1afa1/break_202603_etiketa.jpeg?ph=4b46cfd0c9",
+   "sirka": 1920,
+   "vyska": 1295,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-08.jpg",
+   "url": "https://img.youtube.com/vi/mIvRsKUrTwg/hqdefault.jpg",
+   "sirka": 480,
+   "vyska": 360,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-09.jpg",
+   "url": "https://4b46cfd0c9.clvaw-cdnwnd.com/db03e9fe641ad63781336699588904d5/200000957-02ec802eca/break_202602_etiketa.jpeg?ph=4b46cfd0c9",
+   "sirka": 1920,
+   "vyska": 1295,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-10.jpg",
+   "url": "https://4b46cfd0c9.clvaw-cdnwnd.com/db03e9fe641ad63781336699588904d5/200000929-4973649738/break_202601_etiketa.jpeg?ph=4b46cfd0c9",
+   "sirka": 1920,
+   "vyska": 1295,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-11.jpg",
+   "url": "https://4b46cfd0c9.clvaw-cdnwnd.com/db03e9fe641ad63781336699588904d5/200000927-5d30b5d30c/break_202512_etiketa.jpeg?ph=4b46cfd0c9",
+   "sirka": 1920,
+   "vyska": 1295,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-12.png",
+   "url": "https://4b46cfd0c9.clvaw-cdnwnd.com/db03e9fe641ad63781336699588904d5/200000325-0a3180a31b/Korunka.png?ph=4b46cfd0c9",
+   "sirka": 1182,
+   "vyska": 1182,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-13.png",
+   "url": "https://duyn491kcolsw.cloudfront.net/files/0s/0s8/0s8gu2.png?ph=4b46cfd0c9",
+   "sirka": 400,
+   "vyska": 400,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h1",
+   "text": "kouč spoločenskej etikety, pánskej módy a kráľovský komentátor",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "kurzy  / program / predstavenia",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Mediálne vystúpenia / články / rozhovory",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Zomrel nórsky Kráľ Harald V. Ako ho vnímal národ a prečo bol taký obľúbený? Rozhovor TA3",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Návrat Harryho a Meghan do Británie! Čo bude ďalej? Rozhovor pre Markízu a TA3!",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Hosť v podcaste Zrebný session",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Za kráľovským pozlátkom je tvrdá práca | Hosť na Kanál1",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Rubrika Breaku: Buďte džentlmenom s Jakubom - Príbeh gombíka na saku",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Zatknutie bývalého Princa Andrewa! Ako to ovplyvní britskú monarchiu a čo na to Karol III.?",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Rubrika Breaku: Buďte džentlmenom s Jakubom - Valentín single?",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Rubrika Breaku: Buďte džentlmenom s Jakubom - Etiketa dobrého hosťa",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Rubrika Breaku: Buďte džentlmenom s Jakubom - Silvester na džentlmena",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Škola etikety",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Vyberte si z ponuky kurzov",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Pokročilé nastavenia",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "30. október 2026 20:00 Red Cat Cabaret│ ROYAL BURLESQUE",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "31. október 2026 20:00 Red Cat Cabaret│ ROYAL BURLESQUE",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "21. november 2026 18:00 DK Turčianske Teplice│ ŠVIHÁK LÁZEŇSKÝ",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "22. november 2026 17:21  Mestské divadlo Banská Bystrica│ ŠVIHÁK LÁZEŇSKÝ",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "28. november 2026 19:00 DoubleTree by Hilton BA | IDEME NA VEČERU kurz stolovania",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Po ťažkej chorobe odišiel nórsky Kráľ Harald V., ktorý bol vo svojich 89. rokoch najstarším európskym panovníkom. Prečo bol panovník u Nórov takým obľúbeným a prečo ho prezývali otcom a starým otcom národa? Kto sa stane jeho následníkom? O jeho živote a odkaze som rozprával v rozhovore pre TA3.",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Harry a Meghan späť v Británii?! A toto môže byť len začiatok. Pozrite si moje vyjadrenia pre TV Markíza a TA3 a dozviete sa, čo môže stáť za návratom Sussexovcov do Británie a ako bjde vyzerať a čo bude znamenať ich veľkolepý návrat.",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "V tejto epizóde sa ma Matej Zrebný pýta na to, prečo etiketa nie je snobské počítanie vidličiek, ale schopnosť prispôsobiť sa a myslieť na pohodlie druhého. Rozoberáme tepláky, dress code do divadla, tykanie a vykanie, podávanie ruky, bozky pri zoznámení, neodpisovanie na správy, jedlá na prvom rande aj pravidlá stolovania. Zároveň opisujem svoju...",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Svet, ktorý pôsobí navonok dokonale – elegancia, tradícia, noblesa. Britská kráľovská rodina nás fascinuje už celé roky. Možno aj preto, že je to svet, ktorý väčšina z nás nikdy nezažije. Aký je to svet, keď sa naň pozrieme z blízka? Čo si z tohto sveta môžeme preniesť aj do nášho každodenného života? Kedy a čím sa prezrádzame, že etiketu...",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "V modernom pánskom šatníku existuje len málo pravidiel, ktoré by boli také striktné a zároveň opradené mýtmi ako to o poslednom gombíku na saku . Hoci nás etiketa učí jasné \"nikdy\", málokto tuší, či za tým stojí kráľovská roztopašnosť, jazdecká tradícia alebo jednoducho evolúcia strihu. Vydajte sa na malú exkurziu do histórie od vojenských uniforiem...",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Zatknutie Andrewa, brata Karola III. a bývalého Princa pre podozrenie zo zneužitia verejnej funkcie je správa, ktorá pochopiteľne obletela celý svet. Naviac, stalo sa tak v deň jeho 66. narodenín. Ako ovplyvní táto kauza celú britskú monarchiu a ako sa k nej postavil Kráľ? Pozrite si celý rozhovor v TV Markíza",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vo februárovom článku mojej rubriky v časopise Break idem priamo na vec – Valentín bez partnera nie je tragédia, ale postoj. Byť single nie je mínus, je to štýl. Píšem o tom, ako si 14. február užiť sebavedomo, s nadhľadom a bez potreby komukoľvek niečo dokazovať.",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Hoci sa môže zdať, že návšteva je hlavne o jedle a poháriku niečoho ostrejšieho, v skutočnosti ide o jemnú spoločenskú choreografiu. Byť dobrým hosťom je umenie a paradoxne sa o ňom hovorí menej, než o tom, ako správne prestierať. Práve hosť však dokáže celý večer výrazne povýšiť – alebo ho v horšom prípade úplne pochovať.",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Silvester má v mojich očiach dve podoby: buď tancujete na stole s klobásou v ruke, alebo sedíte doma v teplákoch. Ja vám však chcem ukázať tretiu cestu – tú, kde sa kráľovsky zabavíte, no zároveň si zachováte úroveň, za ktorú sa pred zrkadlom na druhý deň nemusíte červenať. Pripravil som pre vás 5 tipov, ako si užiť poslednú noc roka s noblesou. ...",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Slušnosť je človeku vrodená, zdvorilosti sa musíme učiť.",
+   "zdroj": "https://www.jakubabraham.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Tu môžete upraviť svoje preferencie ohľadom cookies. Nasledujúce kategórie môžete povoliť či zakázať a svoj výber uložiť.",
+   "zdroj": "https://www.jakubabraham.sk/"
+  }
+ ],
+ "chybi": [
+  "telefon (do webu, ne do mailů)",
+  "IČO",
+  "adresa / provozovna",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": "Spoločenská etiketa, dresscode a komunikácia"
+}

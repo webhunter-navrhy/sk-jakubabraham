@@ -1,0 +1,37 @@
+[
+ {
+  "kde": "TA3",
+  "nazov": "Zomrel nórsky kráľ Harald V. Ako ho vnímal národ a prečo bol taký obľúbený?",
+  "typ": "Rozhovor",
+  "url": "https://www.youtube.com/watch?v=zZIWgltXHq0",
+  "img": "media-ta3-harald.jpg"
+ },
+ {
+  "kde": "TV Markíza a TA3",
+  "nazov": "Návrat Harryho a Meghan do Británie. Čo bude ďalej?",
+  "typ": "Rozhovor",
+  "url": "https://www.youtube.com/watch?v=P-QYNjPPcFo",
+  "img": "media-markiza-harry.jpg"
+ },
+ {
+  "kde": "Zrebný session",
+  "nazov": "Hosť v podcaste: prečo etiketa nie je snobské počítanie vidličiek",
+  "typ": "Podcast",
+  "url": "https://www.youtube.com/watch?v=xPRBs0YYqGo",
+  "img": "media-zrebny.jpg"
+ },
+ {
+  "kde": "Kanál1",
+  "nazov": "Za kráľovským pozlátkom je tvrdá práca",
+  "typ": "Hosť",
+  "url": "https://www.youtube.com/watch?v=6S4RKK6A8UI",
+  "img": "media-kanal1.jpg"
+ },
+ {
+  "kde": "TA3",
+  "nazov": "Zatknutie bývalého princa Andrewa: ako to ovplyvní britskú monarchiu",
+  "typ": "Rozhovor",
+  "url": "https://www.youtube.com/watch?v=mIvRsKUrTwg",
+  "img": "media-ta3-andrew.jpg"
+ }
+]
